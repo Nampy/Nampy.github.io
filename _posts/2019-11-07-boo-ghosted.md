@@ -6,6 +6,8 @@ categories: [ Thoughts, Life Sucks ]
 posttype: "article"
 tags: [benspiration, thoughts, notes, moments, blogpost, ghosted, halloween]
 image: assets/images/ghost.jpg
+featured: false
+hidden: false
 ---
 
 
