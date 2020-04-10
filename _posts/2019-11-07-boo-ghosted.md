@@ -2,10 +2,10 @@
 layout: post
 title:  "Boo! Ghosted."
 author: athulya
-categories: [ Thoughts, Life Sucks ]
+categories: [ Thoughts ]
 posttype: "article"
 tags: [benspiration, thoughts, notes, moments, blogpost, ghosted, halloween]
-image: assets/images/ghost.jpg
+image: assets/images/post-covers/ghost.jpg
 featured: false
 hidden: false
 ---
