@@ -5,8 +5,8 @@ description: "My random thoughts and musings."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 
-disqus: 
+google_analytics:
+disqus: 'athulyaben' 
 mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
@@ -21,6 +21,8 @@ authors:
     email: athulyaben@gmail.com
     web: 'mailto:athulyaben@gmail.com'
     twitter: ''
+    youtube: 'https://www.youtube.com/user/benisbenable?sub_confirmation=1'
+    instagram: 'https://www.instagram.com/athulya.does/'
     description: "Just a small town girl livin' in a lonely world."
 
 # Plugins

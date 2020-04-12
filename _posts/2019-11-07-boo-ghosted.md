@@ -8,6 +8,7 @@ tags: [benspiration, thoughts, notes, moments, blogpost, ghosted, halloween]
 image: assets/images/post-covers/ghost.jpg
 featured: false
 hidden: false
+comments: true
 ---
 
 

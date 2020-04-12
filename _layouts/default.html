@@ -71,57 +71,37 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
 		</li>
 
-                <li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">Articles</a>
-                <div class="dropdown-menu">
-			{% for category in site.categories %}
-				{% assign menu_item_made = false %}
-				{% assign pages_list = category[1] %}
-				{% for post in pages_list %}
-					{% assign posttype = post.posttype | downcase %}
-					{% if "article" == posttype %}
-						{% if post.title != null %}
-							{% if group == null or group == post.group %}
-								{% unless menu_item_made %}
-									<a class="dropdown-item" href="{{ site.baseurl }}/articles#{{ category[0] | replace: " ","-" }}"><span class="text-capitalize">{{ category[0] }}</span></a>
-									{% assign menu_item_made = true %}
-								{% endunless %}
-							{% endif %}
-						{% endif %}
-					{% endif %}
-				{% endfor %}
-				{% assign pages_list = nil %}
-				{% assign group = nil %}
-				{% assign menu_item_made = false %}
-			{% endfor %}
-        	</div>
-		</li>
+		{% assign posttypes = "Article, Video" | split: ", " %}
+		{% for pt in posttypes %}
+			{% assign pt_lower = pt | downcase %}
 
-		<li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">Videos</a>
-                <div class="dropdown-menu">
-			{% for category in site.categories %}
-				{% assign menu_item_made = false %}
-				{% assign pages_list = category[1] %}
-				{% for post in pages_list %}
-					{% assign posttype = post.posttype | downcase %}
-					{% if "video" == posttype %}
-						{% if post.title != null %}
-							{% if group == null or group == post.group %}
-								{% unless menu_item_made %}
-									<a class="dropdown-item" href="{{ site.baseurl }}/videos#{{ category[0] | replace: " ","-" }}"><span class="text-capitalize">{{ category[0] }}</span></a>
-									{% assign menu_item_made = true %}
-								{% endunless %}
+		        <li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">{{pt}}s</a>
+		        <div class="dropdown-menu">
+				{% for category in site.categories %}
+					{% assign menu_item_made = false %}
+					{% assign pages_list = category[1] %}
+					{% for post in pages_list %}
+						{% assign curr_posttype = post.posttype | downcase %}
+						{% if pt_lower == curr_posttype %}
+							{% if post.title != null %}
+								{% if group == null or group == post.group %}
+									{% unless menu_item_made %}
+										<a class="dropdown-item" href="{{ site.baseurl }}/{{pt_lower | replace: ' ','-'}}s#{{ category[0] | replace: " ","-" }}"><span class="text-capitalize">{{ category[0] }}</span></a>
+										{% assign menu_item_made = true %}
+									{% endunless %}
+								{% endif %}
 							{% endif %}
 						{% endif %}
-					{% endif %}
+					{% endfor %}
+					{% assign pages_list = nil %}
+					{% assign group = nil %}
+					{% assign menu_item_made = false %}
 				{% endfor %}
-				{% assign pages_list = nil %}
-				{% assign group = nil %}
-				{% assign menu_item_made = false %}
-			{% endfor %}
-        	</div>
-		</li>
+			</div>
+			</li>
+		{% endfor %}
+
 		
                 {% if page.url == "/about" %}
                 <li class="nav-item active">
@@ -216,8 +196,8 @@ ga('send', 'pageview');
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+            <div class="col-md-6 col-sm-6 text-center text-lg-right" style="color:#e5e7e9">    
+                Mediumish Jekyll Theme by WowThemes.net
             </div>
         </div>
     </div>

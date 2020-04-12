@@ -47,15 +47,14 @@ Write down your goals that you want to accomplish or work towards. Write it big 
 
 Days will pass by quicker than ever. It will roll up mid December 2019. You have your memory box ready to read them. You have your posters, all of them marked away. What you did was look and plan ahead. You worked towards a better version of yourself. They might be tiny steps, but you weren't afraid to take those steps. It's your year, make it memorable, look ahead, make your bed, finish those goals! Don't be afraid to take the step, no more holding back.
 
-[![](/assets/images/our-year/20190106_223759.jpg){:width="45%"}](/assets/images/our-year/20190106_223759.jpg)
-[![](/assets/images/our-year/20190106_223804.jpg){:width="45%"}](/assets/images/our-year/20190106_223804.jpg)
+![](/assets/images/our-year/20190106_223759.jpg){:width="45%"}
+![](/assets/images/our-year/20190106_223804.jpg){:width="45%"}
 
-[![](/assets/images/our-year/20190106_224238.jpg){:width="45%"}](/assets/images/our-year/20190106_224238.jpg)
-[![](/assets/images/our-year/20190106_224555.jpg){:width="45%"}](/assets/images/our-year/20190106_224555.jpg)
+![](/assets/images/our-year/20190106_224238.jpg){:width="45%"}
+![](/assets/images/our-year/20190106_224555.jpg){:width="45%"}
 
-[![](/assets/images/our-year/20190106_224601.jpg){:width="45%"}](/assets/images/our-year/20190106_224601.jpg)
-[![](/assets/images/our-year/20190106_224628.jpg){:width="45%"}](/assets/images/our-year/20190106_224628.jpg)
-
+![](/assets/images/our-year/20190106_224601.jpg){:width="45%"}
+![](/assets/images/our-year/20190106_224628.jpg){:width="45%"}
 
 Please comment and share your story.
 
