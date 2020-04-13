@@ -5,9 +5,9 @@ description: "My random thoughts and musings."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics:
+google_analytics: 'UA-163379898-1'
 disqus: 'athulyaben' 
-mailchimp-list:
+mailchimp-list: 'https://athulyaben.us19.list-manage.com/subscribe/post?u=e2f22e857c26d0d521b8a10df&amp;id=d9dc0deb29'
 include: ["_pages"]
 permalink: /:title/
 
