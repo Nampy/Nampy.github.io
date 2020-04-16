@@ -2,7 +2,7 @@
 layout: post
 title:  "Favorite Quotes"
 author: athulya
-categories: [ Quotes ]
+categories: [ Thoughts ]
 posttype: "article"
 tags: []
 image: assets/images/post-covers/favorite-quotes.jpg

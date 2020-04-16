@@ -22,7 +22,7 @@ Looking ahead is the second step in the new year. Well, the first step as we kno
 
 ***
 
-<center>"If you wanna change the world, start by making your day!"</center>
+<center>"If you wanna change the world, start by making your bed!"</center>
 
 ***
 

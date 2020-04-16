@@ -6,6 +6,7 @@ categories: [ Coffee ]
 posttype: "article"
 tags: []
 image: assets/images/post-covers/happy-goat.jpg
+rating: 3.5
 featured: false
 hidden: false
 ---

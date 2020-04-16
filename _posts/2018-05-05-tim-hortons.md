@@ -7,6 +7,7 @@ posttype: "article"
 tags: []
 image: assets/images/post-covers/tim-hortons.jpg
 featured: false
+rating: 3.5
 hidden: false
 toc: false
 ---

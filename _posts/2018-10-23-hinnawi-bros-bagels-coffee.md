@@ -7,6 +7,7 @@ posttype: "article"
 tags: []
 image: assets/images/post-covers/hinnawi.jpg
 featured: false
+rating: 4.5
 hidden: false
 toc: false
 ---

@@ -7,6 +7,7 @@ posttype: "article"
 tags: []
 image: assets/images/post-covers/starbucks.png
 featured: false
+rating: 4
 hidden: false
 toc: false
 ---
