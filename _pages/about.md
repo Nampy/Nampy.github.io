@@ -11,7 +11,7 @@ comments: false
 One of my favorite quotes from Walt Disney I remind myself of daily is "Keep moving forward", and I couldn't agree more with this. The things I write and post here are just my random thoughts and musings that will hopefully one day bring joy or laughter to someone. Maybe I'll also help people with life decisions they need to make such as what they want to do in the future. I am an optimist. I believe in focusing on goals and working towards solutions. I love laughing. Sometimes I ramble. I want to spread the joy and laughter one person at a time.
 <br>
 <br>
-On another note, as I was reading about Bill Gates many a years ago, I came across a quote that I believe is applicable here: "Your most unhappy customers are your greatest source of learning." Simply put, I welcome comments to help me improve my content and any suggestions on other content that other readers would love to see/read.
+On another note, as I was reading about Bill Gates many years ago, I came across a quote that I believe is applicable here: "Your most unhappy customers are your greatest source of learning." Simply put, I welcome comments to help me improve my content and any suggestions on other content that other readers would love to see/read.
 </div>
 
 <div class="col-md-4">
