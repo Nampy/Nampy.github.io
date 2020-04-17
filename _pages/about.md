@@ -16,7 +16,8 @@ On another note, as I was reading about Bill Gates many a years ago, I came acro
 
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80">
-<img src="/assets/images/me.jpg">
+<img src="/assets/images/me.jpg" width="50%">
+<br>
 <br>
 <h5>Buy me a coffee</h5>
 
