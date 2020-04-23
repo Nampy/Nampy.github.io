@@ -3,7 +3,7 @@ layout: post
 title:  "Hello Fresh"
 author: athulya
 categories: [ Product Reviews ]
-tags: [osprey, fairview, unpacking, unboxing]
+tags: []
 image: assets/images/post-covers/hello-fresh.jpg
 video: "https://www.youtube.com/embed/Nx5M2X4MXso"
 posttype: "video"
