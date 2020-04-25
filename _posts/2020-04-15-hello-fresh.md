@@ -8,8 +8,8 @@ image: assets/images/post-covers/hello-fresh.jpg
 video: "https://www.youtube.com/embed/Nx5M2X4MXso"
 posttype: "video"
 rating: 4.5
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Check out my unboxing video for Hello Fresh.

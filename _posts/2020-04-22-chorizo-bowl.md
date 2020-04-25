@@ -2,12 +2,11 @@
 layout: post
 title:  "Chorizo Bowl"
 author: athulya
-categories: [ Product Reviews ]
+categories: [ Cooking ]
 tags: []
 image: assets/images/post-covers/chorizo-bowl.jpg
 video: "https://www.youtube.com/embed/XLORntw8Z44"
 posttype: "video"
-rating: 5
 featured: true
 hidden: true
 ---
