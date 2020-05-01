@@ -6,8 +6,8 @@ categories: [ Thoughts ]
 posttype: "article"
 tags: []
 image: assets/images/post-covers/inner-circle.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 toc: false
 ---
 Everybody is familiar with the term “inner circle”, having heard it or used it at least once in their lives. But here’s an interesting thought: why is it a circle and not any other shape? I have a theory on this, but first we need to understand what an inner circle is. For me, an inner circle will always be there when I need them, and they will be there for me unconditionally. Rain or shine, day or night, I can call them up and ask for help, or share my joy, or even my sorrows. No matter how badly I’ve messed up and no matter how long it has been, I can go to them and rest easy knowing I won’t be judged or shamed. In happiness or sadness, they will always be there; my support system. So, this group is like a circle in two big ways. Firstly, their existence and support are **endless** in that wherever and whenever I turn, I will find them right there beside me ready and waiting. Secondly, just as a circle is a smooth and round shape with no sharp edges that can hurt you, this group can also **never hurt you**. No matter what I say to them, they’ll never respond negatively, and will cherish and love me as they always have.
