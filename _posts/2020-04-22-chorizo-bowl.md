@@ -7,8 +7,8 @@ tags: []
 image: assets/images/post-covers/chorizo-bowl.jpg
 video: "https://www.youtube.com/embed/XLORntw8Z44"
 posttype: "video"
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 Cooking is so much easier when you have all the ingredients given to you in a bag! The prep and cooking only took me 20 minutes. During these times, it was a fun experience for me to wander outside my comfort zone, strictly follow a recipe and cook by the book. And then, I went back to something I'm all too familiar with: eating and enjoying the food. I was very pleased with the final dish, and I hope everyone gets to try cooking from a meal kit at some point. It will be a fun adventure, guaranteed! 
 
