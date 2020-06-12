@@ -8,8 +8,8 @@ image: assets/images/post-covers/chefs-plate.jpg
 video: "https://www.youtube.com/embed/hzfhSezRMbw"
 posttype: "video"
 rating: 3.5
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 
