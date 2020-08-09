@@ -8,8 +8,8 @@ image: assets/images/post-covers/herb-garden.jpg
 video: "https://www.youtube.com/embed/_cEQYaa_cVU"
 posttype: "video"
 rating: 
-featured: true
-hidden: true
+featured: false
+hidden: false
 
 ---
 
