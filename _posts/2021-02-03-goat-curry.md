@@ -12,6 +12,8 @@ featured: true
 hidden: true
 ---
 
+
+
 > *Heads up, this is one of my favorite meals that my mom used to cook for us...Greatest of all time curry*
 
 ###### `Ingredients`
