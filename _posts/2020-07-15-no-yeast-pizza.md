@@ -7,8 +7,8 @@ tags: []
 image: assets/images/post-covers/no-yeast-pizza.jpg
 posttype: "article"
 rating:
-featured: true
-hidden: true
+featured: false
+hidden: false
 
 ---
 
