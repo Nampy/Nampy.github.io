@@ -7,8 +7,8 @@ tags: []
 image: assets/images/post-covers/sushi.jpg
 video: "https://www.youtube.com/embed/bQgrQHG7dkU"
 posttype: "video"
-featured: true
-hidden: true
+featured: false
+hidden: false
 
 ---
 
