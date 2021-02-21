@@ -8,9 +8,8 @@ image: assets/images/post-covers/avocado-brownies.jpg
 video: "https://www.youtube.com/embed/7PA_K6-35sQ"
 posttype: "video"
 rating:
-featured: true
-hidden: true
-
+featured: false
+hidden: false
 
 ---
 
