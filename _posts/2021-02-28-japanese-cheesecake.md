@@ -61,7 +61,6 @@ hidden: true
     2. Place the baking pan on top of a baking tray.
     3. Fill the tray with enough water so that you are able to lift it and place it in the oven.
 12. Bake for 80 minutes. Do not open the oven in between as the heat will escape and your cake will deflate.
-    
     1. Check with a skewer if it is cooked.
 13. Open the oven door slightly and let the cheesecake cool for 30 minutes.
 14. Get your fork and start eating!!
