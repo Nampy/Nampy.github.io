@@ -55,7 +55,7 @@ hidden: true
     3. When folding, do not over work and make sure you are always using the same patterns to fold.
 11. To prevent cheesecake from cracking, just like in the article I followed I baked the cheesecake in a water bath. 
 
-    <img src="/assets/images/jap_cheese/water_bath.jpeg" /><center>Water Bath
+    <img src="/assets/images/jap_cheese/water_bath.JPEG" /><center>Water Bath
 
     1. Wrap your pan tightly with aluminum foil.
     2. Place the baking pan on top of a baking tray.
