@@ -8,8 +8,8 @@ image: assets/images/post-covers/goat_curry.JPEG
 video: "https://youtube.com/embed/6nM-SqvG1lE"
 posttype: "article"
 rating:
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 
