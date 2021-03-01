@@ -51,7 +51,7 @@ hidden: true
 9. Once you are sure that the batter is **smooth and creamy**, preheat the oven to 320F. 
 10. Time to fold in the egg whites to the batter (1/3 at a time). 
     1. If the egg whites are watery at the bottom, do not add that. Just grab only the fluffy egg white parts.
-    2. If you have watched my macaron video, I show you how to fold and check if it is the right consistency.
+    2. If you have watched my [macaron video](https://youtu.be/bCLYNb3EJDo?list=PLENJWv9g3EnPG6bIt_vzA7OV8R2zZbxUY&t=120), I show you how to fold and check if it is the right consistency.
     3. When folding, do not over work and make sure you are always using the same patterns to fold.
 11. To prevent cheesecake from cracking, like the article I followed, I baked the cheesecake in a water bath. 
 
@@ -61,6 +61,7 @@ hidden: true
     2. Place the baking pan on top of a baking tray.
     3. Fill the tray with enough water so that you are able to lift it and place it in the oven.
 12. Bake for 80 minutes. Do not open the oven in between as the heat will escape and your cake will deflate.
+    
     1. Check with a skewer if it is cooked.
 13. Open the oven door slightly and let the cheesecake cool for 30 minutes.
 14. Get your fork and start eating!!
