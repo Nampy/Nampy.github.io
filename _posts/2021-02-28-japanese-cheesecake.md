@@ -53,7 +53,7 @@ hidden: true
     1. If the egg whites are watery at the bottom, do not add that. Just grab only the fluffy egg white parts.
     2. If you have watched my macaron video, I show you how to fold and check if it is the right consistency.
     3. When folding, do not over work and make sure you are always using the same patterns to fold.
-11. To prevent cheesecake from cracking, just like in the article I followed I baked the cheesecake in a water bath. 
+11. To prevent cheesecake from cracking, like the article I followed, I baked the cheesecake in a water bath. 
 
     <img src="/assets/images/jap_cheese/water_bath.JPEG" /><center>Water Bath
 
@@ -68,4 +68,4 @@ hidden: true
 
 > Eat the cheesecake either hot or even the next day after refrigerating it.
 
-Reference Link: https://www.lowcarbingasian.com/japanese-fluffy-cheesecake/
+Reference Link: [https://www.lowcarbingasian.com/japanese-fluffy-cheesecake/](https://www.lowcarbingasian.com/japanese-fluffy-cheesecake/)
