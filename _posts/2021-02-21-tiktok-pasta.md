@@ -8,8 +8,8 @@ image: assets/images/post-covers/tik_tok_pasta.JPEG
 video: "https://youtube.com/embed/Bu50lyrjJhg"
 posttype: "article"
 rating:
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 
