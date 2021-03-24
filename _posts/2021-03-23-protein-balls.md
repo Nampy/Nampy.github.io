@@ -79,3 +79,11 @@ hidden: true
 5. Roll them in decently sized balls and place it on parchment paper. I was able to roll 23 protein balls.
 
    <img src="/assets/images/protein-balls/roll.JPEG" style="zoom:80%;" /><em><center></center>
+
+> There you have it! Have it with hummus, or some tahini sauce. Have it for lunch or a snack. Anytime easy to eat and get some protein in your system after a workout.
+
+<img src="/assets/images/protein-balls/final.JPEG" style="zoom:80%;" /><em><center></center>
+
+<br>
+
+<img src="/assets/images/protein-balls/final2.JPEG" style="zoom:80%;" /><em><center></center>
