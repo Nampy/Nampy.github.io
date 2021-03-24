@@ -1,21 +1,18 @@
 ---
 layout: post
-title:  Protein Balls | VEGAN!
+title:  "Protein Balls | VEGAN!"
 author: athulya
 categories: [ Recipes ]
-tags: []
+tags: [food]
 image: assets/images/post-covers/protein_balls.JPEG
 posttype: "article"
-rating:
 featured: true
 hidden: true
 ---
 
-<br>
+Whether you're looking for post-workout protein or are just trying to have a healthier, balanced diet, here's an easy to make and tasty snack that is filled with protein!
 
-> After working out, the easiest and best snack that is filled with proteins!
-
-###### `Ingredients`
+### `Ingredients`
 <ul>
 <input type="checkbox" class="task-list-item-checkbox"> 1/2 cup lentils
 <br>
@@ -23,67 +20,87 @@ hidden: true
 <br>
 <input type="checkbox"  class="task-list-item-checkbox"> 2 shallots (thinly diced)
 <br>
-<input type="checkbox"  class="task-list-item-checkbox"> chopped coriander
+<input type="checkbox"  class="task-list-item-checkbox"> Chopped coriander
 <br>
 <input type="checkbox"  class="task-list-item-checkbox"> 340g plant based meat
 <br>
+<input type="checkbox"  class="task-list-item-checkbox"> 1/2 tbsp oil
 <br>
+<input type="checkbox"  class="task-list-item-checkbox"> 1/2 tbsp chili powder
+<br>
+<input type="checkbox"  class="task-list-item-checkbox"> 1/2 tbsp roasted cumin
+<br>
+<input type="checkbox"  class="task-list-item-checkbox"> 1/2 tbsp salt (to taste)
+</ul>
 
 <img src="/assets/images/protein-balls/setup.JPEG" style="zoom:80%;" /><em><center>Gather all the ingredients.</center>
-<br>
 
-###  Preparing the lentils
+----------
 
-> Tip: Have the lentils soaked the day off, it turn out softer and easier to mi
+####  `Preparing the Lentils`
 
-1. Heat up the pressure cook and add 1/2 tbsp oil. Add 1/2 tbsp of chilli powder and roasted cumin, and salt (more if you'd like).
-<br>
-<img src="/assets/images/protein-balls/spices.JPEG" style="zoom:80%;" /><em><center></center><br>
+> Tip: Soak the lentils for a few hours beforehand - they come out softer and easier to mix
 
-2. Add lentils and 1.5 cups of water. After 1 whistle, put it on medium wait 10 minutes and then turn the heat off. Let it naturally release.
+1. Heat up the pressure cook and add 1/2 tbsp oil.
+2. Once oil is hot, add the chilli powder,  roasted cumin, and salt.
+ 
+   <img src="/assets/images/protein-balls/spices.JPEG" style="zoom:80%;" /><em><center></center>
 
-### Preparing the beans
+3. Add lentils and 1.5 cups of water. Stir, close the lid, and turn the heat up to high.
+4. After 1 whistle, turn the heat down to medium.
+5. Wait 10 minutes and then turn the heat off. Let the pressure naturally release.
+
+----------
+
+#### `Preparing the Beans`
 
 <img src="/assets/images/protein-balls/diced.JPEG" style="zoom:80%;" /><em><center></center>
 
-1. In an instant pot or presure cooker, saute the, add salt.
+1. In an Instant Pot or pressure cooker, saute the onions and add salt.
 
-2. Add the pinto beans, and water (enough to cover the beans). Pressure cook for 20 mins, let it naturally release.
+2. Add the pinto beans and water (enough to cover the beans). 
 
    <img src="/assets/images/protein-balls/water.JPEG" style="zoom:80%;" /><em><center></center>
 
-3. Once done, drain the water but keep it aside for later use.
+3. Pressure cook for 20 minutes, and let the pressure naturally release.
+4. Once done, drain the water, reserving around 2 cups for later use.
 
-### Heat the plant based meat
+----------
+
+#### `Heat the Plant Based Meat`
 
 1. Using a frying pan, heat the plant based meat and separate it.
 
    <img src="/assets/images/protein-balls/meats.JPEG" style="zoom:80%;" /><em><center></center>
 
-### Put it all together
+----------
+
+#### `Assemble!`
 
 1. Preheat the oven to 350F.
 
-2. Start with squishing the refried beans, and add the coriander.
+2. Start by squishing the refried beans and adding the chopped coriander.
 
    <img src="/assets/images/protein-balls/cori.JPEG" style="zoom:80%;" /><em><center></center>
 
-3. Now add the plant based meat.
+3. Next, add the plant based meat.
 
    <img src="/assets/images/protein-balls/mixed.JPEG" style="zoom:80%;" /><em><center></center>
 
-4. Now the lentils. At any point if it is too dry, add some of the saved up water from the refried beans. This helps it to mix well.
+4. Finally, add the lentils. At any point if the mixture is too dry, slowly add some of the saved water from the refried beans.
 
    <img src="/assets/images/protein-balls/mixed2.JPEG" style="zoom:80%;" /><em><center></center>
 
-5. Roll them in decently sized balls and place it on parchment paper. I was able to roll 23 protein balls.
+5. Form snack sized balls to your liking and place them on parchment paper. I was able to make 23 protein balls.
 
    <img src="/assets/images/protein-balls/roll.JPEG" style="zoom:80%;" /><em><center></center>
+   
+6. Place the balls in the oven for 10 minutes, then remove and let cool.
 
-> There you have it! Have it with hummus, or some tahini sauce. Have it for lunch or a snack. Anytime easy to eat and get some protein in your system after a workout.
+-----------
+
+There you have it!  Enjoy with a sauce of your choosing - I love hummus or tahini. Whether for your lunch or just a mid-day snack, it has never been easier (or tastier) to get some protein in.
 
 <img src="/assets/images/protein-balls/final.JPEG" style="zoom:80%;" /><em><center></center>
-
-<br>
 
 <img src="/assets/images/protein-balls/final2.JPEG" style="zoom:80%;" /><em><center></center>
