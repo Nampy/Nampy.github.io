@@ -4,7 +4,7 @@ title:  "Protein Balls | VEGAN!"
 author: athulya
 categories: [ Recipes ]
 tags: [food]
-image: assets/images/post-covers/protein_balls.JPEG
+image: assets/images/post-covers/protein_balls.png
 posttype: "article"
 featured: true
 hidden: true
@@ -43,7 +43,7 @@ Whether you're looking for post-workout protein or are just trying to have a hea
 
 1. Heat up the pressure cook and add 1/2 tbsp oil.
 2. Once oil is hot, add the chilli powder,  roasted cumin, and salt.
- 
+
    <img src="/assets/images/protein-balls/spices.JPEG" style="zoom:80%;" /><em><center></center>
 
 3. Add lentils and 1.5 cups of water. Stir, close the lid, and turn the heat up to high.
@@ -95,7 +95,7 @@ Whether you're looking for post-workout protein or are just trying to have a hea
 
    <img src="/assets/images/protein-balls/roll.JPEG" style="zoom:80%;" /><em><center></center>
    
-6. Place the balls in the oven for 10 minutes, then remove and let cool.
+6. Place the balls in the oven for 30 minutes, then remove and let cool.
 
 -----------
 
