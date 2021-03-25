@@ -103,4 +103,4 @@ There you have it!  Enjoy with a sauce of your choosing - I love hummus or tahin
 
 <img src="/assets/images/protein-balls/final.JPEG" style="zoom:80%;" /><em><center></center>
 
-<img src="/assets/images/protein-balls/final2.JPEG" style="zoom:80%;" /><em><center></center>
+<img src="/assets/images/protein-balls/nutr.png" style="zoom:80%;" /><em><center></center>
