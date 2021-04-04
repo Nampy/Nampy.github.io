@@ -8,8 +8,8 @@ image: assets/images/post-covers/jap_cheese.JPEG
 video: "https://youtube.com/embed/NtPejwU54co"
 posttype: "article"
 rating:
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 
